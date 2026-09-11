@@ -1,2 +1,2 @@
 # my-first-repo
-throw away testing
+used for practice and learning
